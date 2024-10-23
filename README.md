@@ -1,4 +1,10 @@
 # FirstProject
-Hi, I'm Ricardo Vezzani, and this is my first project. I'm learning the C language and I'm a beginner, so don't expect too much. I'm a Computer Science student, and I did this small "project" to practice my skills. It went well — it wasn't an easy task, but I learned a lot from it.
+Language: C
 
-This project is a Student Registration system where you can register students, search for them, delete them, and see all registered students. Any advice is welcome! Thanks.
+Description: A simple student registration system that allows:
+  Registering students with name, email, ID, grades, and absences.
+  Searching for students by name, ID, or roll number.
+  Deleting registered students.
+  Displaying all students with their information and approval/rejection status.
+  
+Objective: Project developed to practice structure manipulation and flow control in the C language.
